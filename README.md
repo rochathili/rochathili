@@ -17,11 +17,6 @@ Olá, sou Thiago Rocha Lira, um entusiasta de desenvolvimento de software e moni
 - Linux
 - Git
 
-## Contato
-
-- [LinkedIn](https://br.linkedin.com/in/rochathili)
-- Email: rochalirathiago@outlook.com
-
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. Adoro colaborar em projetos interessantes e conhecer novas pessoas da comunidade de desenvolvimento de software!
 
 Obrigado pela visita! 🚀 QUACK! 🦆 (Sim, meu GPT termina tudo com QUACK!)
