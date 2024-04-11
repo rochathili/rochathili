@@ -8,7 +8,7 @@ Olá, sou Thiago Rocha Lira, um entusiasta de desenvolvimento de software e moni
 - 🎓 Técnico de Desenvolvimento de Sistemas
 - 💻 Entusiasta de C# (Gosto de café, mas Java é um pouco demais)
 - 📝 Aprendendo Go, HTML, CSS e JS
-- 🐧 Usuário do Fedora Linux
+- 🐧 Usuário de Fedora Linux
 
 ## Habilidades
 
