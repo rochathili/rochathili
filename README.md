@@ -7,7 +7,7 @@ Olá, sou Thiago Rocha Lira, um entusiasta de desenvolvimento de software e moni
 - 💼 Monitor no Instituto da Oportunidade Social
 - 🎓 Técnico de Desenvolvimento de Sistemas
 - 💻 Entusiasta de C# (Gosto de café, mas Java é um pouco demais)
-- 📝 Aprendendo Go, HTML, CSS e JS
+- 📝 Aprendendo HTML, CSS e JS
 - 🐧 Usuário de Fedora Linux
 
 ## Habilidades
